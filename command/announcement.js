@@ -1,6 +1,6 @@
 module.exports = {
-	name: 'announcement';
-	description: "";
+	name: 'announcement',
+	description: "",
 	execute(message,args,Discord){
 		const newEmbed = new Discord.MessageEmbed();
 		.setColor('#552345');
