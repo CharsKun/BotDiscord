@@ -1,5 +1,5 @@
 module.exports = {
-	name: 'announcement',
+	name: 'rules',
 	description: "",
 	execute(message,args,Discord){
 		const newEmbed = new Discord.MessageEmbed()
