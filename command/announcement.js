@@ -7,7 +7,8 @@ module.exports = {
 		.setTitle('OFFROAD MEET EVENT')
 		//.setDescription(`--Halo kalian @everyone--\nUntuk event 3 minggu kedepan ada yang mau kasi saran?\nkalo ada boleh kasi tau ke admin\ntar kalo cocok akan dipilah dan difilter lagi\n\n----------------\nSetelah Event 3 minggu kedepan\nakan ada event menarik yaitu Event Race Car\nnamun dengan mobil yang sama\nReward:\n100k Pulsa pure dari kantong sendiri\n\nDengan syarat:\nYang make mod akan didiskualifikasi & tentunya akan di ban dari server.`)
 		.setDescription(`
-			\nHari, Tanggal	: Jumat, 20 Februari 2020
+			Halo @everyone\n\n
+			\nHari, Tanggal	: Jumat, 19 Februari 2020
 			\nWaktu			: 21.00 WIB - Selesai
 			\nTitik Kumpul 	: Los Santos Costume
 			\nOutfit		: Bebas, asal ga aneh-aneh
