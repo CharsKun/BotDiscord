@@ -9,26 +9,19 @@ module.exports = {
 		.setDescription(`
 			Halo @everyone\n\n
 			
-			Untuk Jumat ini kami akan mengadakan event Team DeathMatch 2v2\n
-			Daftarkan tim kalian ke @SON OF KRONOS\n\n
-			\nHari, Tanggal	: Jumat, 26 Februari 2020
-			\nWaktu			: 20.00 WIB - Selesai
-			\nTitik Kumpul 	: Shandy Shores Airfield
-			\n\n
-			Note:\n
-			Tidak semua senjata yang diperbolehkan, senjata yang diperbolehkan hanya Assault Rifle, Sub MachineGun, Pistol, Sniper.\n
-			Selain senjata yang disana tidak diperbolehkan termasuk MK2 Weapon, Throwable, Explosion, Up & Automizer, MachineGun.\n
-			Setiap tim akan bertanding untuk menjadi juara, Challange your skills.\n
-			Arena pertempuran akan dipersiapkan oleh Kami :D\n\n
-
-			RULES :\n
-			Untuk para spectator atau penonton jangan ikut membantu atau rusuh.\n
-			Jangan menggunakan senjata yang tidak diperbolehkan, jika dilanggar maka pemain tersebut dianggap kalah.\n
+			Untuk Jumat ini kami akan mengadakan event Racing yang berhadiah 100K Pulsa.\n
 			\n
-			Aturan permainan dapat berubah seiring pertandingan.\n
-			Untuk pemberhantuan lebih lanjut akan kami sampaikan nanti.\n\n
-			Thank you.\n
+			\nHari, Tanggal	: Jumat, 5 Maret 2020
+			\nWaktu			: 20.00 WIB - Selesai
+			\nTitik Kumpul 	: Los Santos Airport
+			\n\n
+			Rules:\n
+			Slot pemain sekitar 20-25 orang yang akan dibagi menjadi 5 grup secara random. Kendaraan akan disiapkan oleh panitia untuk balancing.\n
+			Sistem permainan dibagi menjadi 2 yaitu eliminasi grup & sudden death.\n
+			Pemain tidak boleh menggunakan kendaraan masing-masing. dan pemain tidak boleh menggunakan mod / cheat, jika ketahuan maka akan didiskualifikasi.\n\n
 
+			Note:\n
+			Sebelum pertandingan semua pemain prepare pada jam 18.00 / 19.00 membawa kendaraan supercar / sportnya dengan menggunakan modif seindah mungkin & menggunakan dresscode masing-masing. 
 			`)
 		.setImage('https://prod.cloud.rockstargames.com/crews/sc/2612/54629768/publish/emblem/emblem_512.png')
 		.setFooter('Salam E-Conspiracy.');
