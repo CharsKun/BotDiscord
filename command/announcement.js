@@ -16,7 +16,8 @@ module.exports = {
 			\nOutfit 		: Akan diberitahukan lebih lanjut.
 			\n\n
 			Note:\n
-			Sebelum short movie dibuat diharapkan semua telah memakai pakaian atau outfit yang sudah diarahkan, jika belum maka di hari H- kita akan mengatur outfit bagi yang belum mempunyai outfit.\n`
+			Sebelum short movie dibuat diharapkan semua telah memakai pakaian atau outfit yang sudah diarahkan, jika belum maka di hari H- kita akan mengatur outfit bagi yang belum mempunyai outfit.\n
+			`)
 		.setImage('https://prod.cloud.rockstargames.com/crews/sc/2612/54629768/publish/emblem/emblem_512.png')
 		.setFooter('Salam E-Conspiracy.');
 		message.channel.send(newEmbed);
