@@ -44,6 +44,8 @@ client.on('message', message =>{
 		client.commands.get('announcement').execute(message,args,Discord);
 	}else if(command === 'rules'){
 		client.commands.get('rules').execute(message,args,Discord);
+	}else if(command === 'reactionrole2'){
+		client.commands.get('reactionrole2').execute(message,args,Discord,client);
 	}
 });
 
