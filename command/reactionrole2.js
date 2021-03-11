@@ -6,23 +6,23 @@ module.exports = {
         const yellowTeamRole = message.guild.roles.cache.find(role => role.name === "BOY");
         const blueTeamRole = message.guild.roles.cache.find(role => role.name === "GIRL");
  
-        const valorant = ':valorant:';
-        const pb = ':pb:';
-        const warthunder = ':warthunder:';
-        const apexlegends = ':apexlegends:';
-        const leagueoflegends = ':leagueoflegends:';
-        const pubg = ':pubg:';
+        const valorant = '1️⃣';
+        const pb = '2️⃣';
+        const warthunder = '3️⃣';
+        const apexlegends = '4️⃣';
+        const leagueoflegends = '5️⃣';
+        const pubg = '6️⃣';
  
         let embed = new Discord.MessageEmbed()
             .setColor('#e42643')
             .setTitle('E-Conspiracy Game Role')
             .setDescription('Pilih role game yang kamu mainkan.\n\n'
-                + `${valorant} Valorant\n`
-                + `${pb} Point Blank\n`
-                + `${warthunder} War Thunder\n`
-                + `${apexlegends} Apex Legends\n`
-                + `${leagueoflegends} League of Legends\n`
-                + `${pubg} PUBG Lite`
+                 `1. :valorant: Valorant\n`
+                 `2. :pb: Point Blank\n`
+                 `3. :warthunder: War Thunder\n`
+                 `4. :apexlegends: Apex Legends\n`
+                 `5. :leagueoflegends: League of Legends\n`
+                 `6. :pubg: PUBG Lite`
                 );
  
         let messageEmbed = await message.channel.send(embed);
