@@ -14,11 +14,12 @@ module.exports = {
 			:one: Berlaku baik sesama member server\n
 			:two: Bercanda jangan sampai timbul salah paham yang berujung ricuh\n
 			:three: Jangan adanya sara antar member\n
-			:four: Utamakan kenyamanan sesama anggota\n\n
+			:four: Utamakan kenyamanan sesama anggota\n
+			:five: Jika ada yang ingin advertising / promosi diharapkan izin dulu ke <@&827194196263043092>\n\n
 			<--> EVENT <-->\n
 			:one: Pada saat event dilarang ada yang rusuh\n
-			:two: Patuhi setiap arahan yang diberikan oleh <@&827193886735859733>/<@&827194196263043092>\n
-			:three: Jika ada yang rusuh kami tidak segan-segan akan mengeluarkan kalian dari Server ini.\n\n
+			:two: Patuhi setiap arahan yang diberikan oleh <@&827194196263043092>\n
+			:three: Jika ada yang rusuh kami tidak segan-segan akan mengeluarkan kalian dari Server ini\n\n
 			<--> POINT TAMBAHAN <-->\n
 			:one: Subscribe channel kita bersama : https://youtube.com/channel/UC4fjNb_OOj0i77Jdor-Wphw\n
 			:two: Cek semua video cinematic official kita di <#798017000277803088>\n
